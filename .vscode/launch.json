@@ -1,0 +1,469 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculaValores",
+            "request": "launch",
+            "mainClass": "CalculaValores",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalcularVolume",
+            "request": "launch",
+            "mainClass": "CalcularVolume",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio01_Condicao",
+            "request": "launch",
+            "mainClass": "DesvioDeCondicionalSimples.Exercicio01_Condicao",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio01_Condicao_Se_Nao",
+            "request": "launch",
+            "mainClass": "DesvioDeCondicionalSimples.Exercicio01_Condicao_Se_Nao",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio02_Condicao",
+            "request": "launch",
+            "mainClass": "DesvioDeCondicionalSimples.Exercicio02_Condicao",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio02_Condicao_Se_Nao",
+            "request": "launch",
+            "mainClass": "DesvioDeCondicionalSimples.Exercicio02_Condicao_Se_Nao",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio03_Condicao",
+            "request": "launch",
+            "mainClass": "DesvioDeCondicionalSimples.Exercicio03_Condicao",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploEntrada",
+            "request": "launch",
+            "mainClass": "ExemploEntrada",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploEntradaCaractere",
+            "request": "launch",
+            "mainClass": "ExemploEntradaCaractere",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploMedia",
+            "request": "launch",
+            "mainClass": "ExemploMedia",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploSaida",
+            "request": "launch",
+            "mainClass": "ExemploSaida",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio04_Lista",
+            "request": "launch",
+            "mainClass": "Exercicio04_Lista",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioAeB",
+            "request": "launch",
+            "mainClass": "ExercicioAeB",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioLetraC",
+            "request": "launch",
+            "mainClass": "ExercicioLetraC",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioLetraD",
+            "request": "launch",
+            "mainClass": "ExercicioLetraD",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioLetraE",
+            "request": "launch",
+            "mainClass": "ExercicioLetraE",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioNumero4",
+            "request": "launch",
+            "mainClass": "ExercicioNumero4",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioNumero5",
+            "request": "launch",
+            "mainClass": "ExercicioNumero5",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExerciciosEmUmSoArquivo",
+            "request": "launch",
+            "mainClass": "ExerciciosEmUmSoArquivo",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fatorial",
+            "request": "launch",
+            "mainClass": "Fatorial",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio04_LetraA_Lista",
+            "request": "launch",
+            "mainClass": "Lista_Aula05_Ex04.Exercicio04_LetraA_Lista",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio04_LetraB_Lista",
+            "request": "launch",
+            "mainClass": "Lista_Aula05_Ex04.Exercicio04_LetraB_Lista",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio04_LetraC_Lista",
+            "request": "launch",
+            "mainClass": "Lista_Aula05_Ex04.Exercicio04_LetraC_Lista",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio04_LetraD_Lista",
+            "request": "launch",
+            "mainClass": "Lista_Aula05_Ex04.Exercicio04_LetraD_Lista",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio04_LetraE_Lista",
+            "request": "launch",
+            "mainClass": "Lista_Aula05_Ex04.Exercicio04_LetraE_Lista",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio04_LetraF_Lista",
+            "request": "launch",
+            "mainClass": "Lista_Aula05_Ex04.Exercicio04_LetraF_Lista",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio04_LetraG_Lista",
+            "request": "launch",
+            "mainClass": "Lista_Aula05_Ex04.Exercicio04_LetraG_Lista",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio04_LetraH_Lista",
+            "request": "launch",
+            "mainClass": "Lista_Aula05_Ex04.Exercicio04_LetraH_Lista",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio04_LetraI_Lista",
+            "request": "launch",
+            "mainClass": "Lista_Aula05_Ex04.Exercicio04_LetraI_Lista",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio04_LetraJ_Lista",
+            "request": "launch",
+            "mainClass": "Lista_Aula05_Ex04.Exercicio04_LetraJ_Lista",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Lista_Aula05_Ex04.Main",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(1)",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculadoraExemplo",
+            "request": "launch",
+            "mainClass": "Modularizacao.CalculadoraExemplo",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex01",
+            "request": "launch",
+            "mainClass": "Modularizacao.Ex01",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex02",
+            "request": "launch",
+            "mainClass": "Modularizacao.Ex02",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploMediaProcedimento",
+            "request": "launch",
+            "mainClass": "Modularizacao.ExemploMediaProcedimento",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Media",
+            "request": "launch",
+            "mainClass": "Modularizacao.Media",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch questao1_prova",
+            "request": "launch",
+            "mainClass": "Prova1.questao1_prova",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch questao2_prova",
+            "request": "launch",
+            "mainClass": "Prova1.questao2_prova",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch questao3_prova",
+            "request": "launch",
+            "mainClass": "Prova1.questao3_prova",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio1LetraA",
+            "request": "launch",
+            "mainClass": "Revisao_Primeiro_Semestre.Exercicio1LetraA",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio1LetraB",
+            "request": "launch",
+            "mainClass": "Revisao_Primeiro_Semestre.Exercicio1LetraB",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio1LetraC",
+            "request": "launch",
+            "mainClass": "Revisao_Primeiro_Semestre.Exercicio1LetraC",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio2",
+            "request": "launch",
+            "mainClass": "Revisao_Primeiro_Semestre.Exercicio2",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio3",
+            "request": "launch",
+            "mainClass": "Revisao_Primeiro_Semestre.Exercicio3",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio4",
+            "request": "launch",
+            "mainClass": "Revisao_Primeiro_Semestre.Exercicio4",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio5",
+            "request": "launch",
+            "mainClass": "Revisao_Primeiro_Semestre.Exercicio5",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio6",
+            "request": "launch",
+            "mainClass": "Revisao_Primeiro_Semestre.Exercicio6",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio7",
+            "request": "launch",
+            "mainClass": "Revisao_Primeiro_Semestre.Exercicio7",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio8",
+            "request": "launch",
+            "mainClass": "Revisao_Primeiro_Semestre.Exercicio8",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch segunda_Lista_Exercicios",
+            "request": "launch",
+            "mainClass": "Segunda_LISTA.segunda_Lista_Exercicios",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SegundoPrograma",
+            "request": "launch",
+            "mainClass": "SegundoPrograma",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio1",
+            "request": "launch",
+            "mainClass": "Terceira_LISTA.exercicio1",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio10",
+            "request": "launch",
+            "mainClass": "Terceira_LISTA.exercicio10",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio2",
+            "request": "launch",
+            "mainClass": "Terceira_LISTA.exercicio2",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio3",
+            "request": "launch",
+            "mainClass": "Terceira_LISTA.exercicio3",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio4",
+            "request": "launch",
+            "mainClass": "Terceira_LISTA.exercicio4",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio5",
+            "request": "launch",
+            "mainClass": "Terceira_LISTA.exercicio5",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio6",
+            "request": "launch",
+            "mainClass": "Terceira_LISTA.exercicio6",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio7",
+            "request": "launch",
+            "mainClass": "Terceira_LISTA.exercicio7",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio8",
+            "request": "launch",
+            "mainClass": "Terceira_LISTA.exercicio8",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio9",
+            "request": "launch",
+            "mainClass": "Terceira_LISTA.exercicio9",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteCondicao",
+            "request": "launch",
+            "mainClass": "TesteCondicao",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch maior_ou_menor",
+            "request": "launch",
+            "mainClass": "maior_ou_menor",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        },
+        {
+            "type": "java",
+            "name": "Launch segunda_Lista_Exercicios(1)",
+            "request": "launch",
+            "mainClass": "segunda_Lista_Exercicios",
+            "projectName": "Aulas Com o Roberto_7ba201a"
+        }
+    ]
+}
